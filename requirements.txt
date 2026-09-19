@@ -4,4 +4,4 @@ numpy
 scikit-learn
 statsmodels
 pmdarima
-tensorflow
+tensorflow-cpu
