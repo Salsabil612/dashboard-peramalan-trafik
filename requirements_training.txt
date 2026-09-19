@@ -1,0 +1,12 @@
+# Requirements untuk Training_ARIMA_BiLSTM.ipynb (Google Colab)
+# Sebagian besar sudah terpasang di Colab, tapi jalankan cell instalasi
+# pertama di notebook untuk memastikan versi yang kompatibel.
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+pmdarima>=2.0.4
+tensorflow>=2.15.0
+joblib>=1.3.0
