@@ -2,7 +2,7 @@
 app.py
 ======
 Dashboard Interaktif — Analisis Perbandingan ARIMA dan BiLSTM untuk
-Peramalan Trafik Website Berita Online
+Peramalan Trafik Website Berita Online Berbasis Dashboard
 
 Skripsi: Salsabil Zahra (4123049) — STMIK Al Muslim Bekasi
 
@@ -346,7 +346,7 @@ fast_mode = True
 
 with st.sidebar:
     st.markdown("### 📊 Dashboard Peramalan Trafik")
-    st.markdown("**Skripsi:** Analisis Perbandingan ARIMA dan BiLSTM untuk Peramalan Trafik Website Berita Online")
+    st.markdown("**Skripsi:** Analisis Perbandingan ARIMA dan BiLSTM untuk Peramalan Trafik Website Berita Online Berbasis Dashboard")
     st.markdown("**Penyusun:** Salsabil Zahra (4123049)")
     st.markdown("**Prodi:** Ilmu Komputer — STMIK Al Muslim")
     st.divider()
