@@ -348,7 +348,7 @@ with st.sidebar:
     st.markdown("### 📊 Dashboard Peramalan Trafik")
     st.markdown("**Skripsi:** Analisis Perbandingan ARIMA dan BiLSTM untuk Peramalan Trafik Website Berita Online")
     st.markdown("**Penyusun:** Salsabil Zahra (4123049)")
-    st.markdown("**Prodi:** Manajemen Informatika — STMIK Al Muslim")
+    st.markdown("**Prodi:** Ilmu Komputer — STMIK Al Muslim")
     st.divider()
 
     st.markdown("#### 📁 Sumber Data")
